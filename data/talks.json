@@ -815,7 +815,7 @@
   "resources": [],
   "do_not_record": false,
   "title": "BinaryBuilder.jl — The Subtle Art of Binaries that \"Just Work\"",
-  "abstract": "This workshop will walk you through the wonders of `BinaryBuilder.jl`, the framework that allows you to compile binary libraries and programs for all supported Julia platforms"
+  "abstract": "This workshop will walk you through the wonders of `BinaryBuilder.jl`, the framework that allows you to compile binary libraries and programs for all supported Julia platforms. \r\n\r\nJoin via Zoom: link in email from Eventbrite. Backup Youtube link: https://youtu.be/3IyXsBwqll8"
  },
  {
   "content_locale": "en",
@@ -2081,7 +2081,7 @@
   "resources": [],
   "do_not_record": false,
   "title": "Building and analyzing graphs at scale with LightGraphs",
-  "abstract": "From logistics to bioinformatics or web analytics, graphs are versatile abstractions for modelling problems and solving them with specialized efficient algorithms. But with different problems comes the need for different representations. This workshop aims at giving a hands-on tour to the JuliaGraphs libraries, letting the participants build, analyze and visualize graphs for different applications."
+  "abstract": "From logistics to bioinformatics or web analytics, graphs are versatile abstractions for modelling problems and solving them with specialized efficient algorithms. But with different problems comes the need for different representations. This workshop aims at giving a hands-on tour to the JuliaGraphs libraries, letting the participants build, analyze and visualize graphs for different applications. Join via Zoom: link in email from Eventbrite. Backup Youtube link: https://youtu.be/K3z0kUOBy2Y."
  },
  {
   "content_locale": "en",
@@ -3154,7 +3154,7 @@
     "biography": "Full professor in the Faculty of Sciences, Universidad Nacional Autónoma de México (UNAM) and visiting professor at MIT.\r\n\r\nJulia user, tutorial developer and package author since 2014. Co-creator of the JuliaIntervals suite of tools for interval arithmetic in Julia."
    }
   ],
-  "description": "We will explore more advanced features of Julia, in particular Julia’s\r\ntype system. To do so we will build up simple models \r\nfor the spread of an epidemic through a population of individuals.\r\n\r\nSome topics that we will cover include:\r\n\r\n- Why Julia?\r\n- Small functions as building blocks\r\n- Multiple dispatch\r\n- User-defined types\r\n- Abstract types and type hierarchies\r\n- Generic programming",
+  "description": "We will explore more advanced features of Julia, in particular Julia’s\r\ntype system. To do so we will build up simple models \r\nfor the spread of an epidemic through a population of individuals.\r\n\r\nSome topics that we will cover include:\r\n\r\n- Why Julia?\r\n- Small functions as building blocks\r\n- Multiple dispatch\r\n- User-defined types\r\n- Abstract types and type hierarchies\r\n- Generic programming\r\n\r\nMaterials and installation instructions are available at \r\nhttps://github.com/dpsanders/LearnJulia2020",
   "image": null,
   "slot_count": 1,
   "slot": {
@@ -5026,7 +5026,7 @@
   "resources": [],
   "do_not_record": false,
   "title": "Building microservices and applications in Julia",
-  "abstract": "While Julia started as a \"fresh approach to technical computing\", it has blossomed into a powerful general-purpose language fit for much more than \"just\" linear algebra and automatic differentiation. This workshop will walk-through an architecture of microservices in Julia, and a broad spectrum of high-quality packages to aid in the process."
+  "abstract": "While Julia started as a \"fresh approach to technical computing\", it has blossomed into a powerful general-purpose language fit for much more than \"just\" linear algebra and automatic differentiation. This workshop will walk-through an architecture of microservices in Julia, and a broad spectrum of high-quality packages to aid in the process. \r\n\r\nJoin via Zoom: link in email from Eventbrite. Backup Youtube link: https://youtu.be/uLhXgt_gKJc."
  },
  {
   "content_locale": "en",
