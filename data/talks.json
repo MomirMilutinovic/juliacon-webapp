@@ -3585,7 +3585,7 @@
     "biography": "Chris is the organizer of the SF [Bay Area Julia users group](https://www.meetup.com/Bay-Area-Julia-Users/)."
    }
   ],
-  "description": "To start, Bill Hart, author of Nemo.jl, AbstractAlgebra.jl Hecke.jl and other computer algebra packages will review his packages and discuss what further steps he and his collaborators plan to make.  We will discuss other computer algebra and number theory packages. Then we'll discuss topics such as:\r\n\r\n* What's missing? Is there important functionality which just don't exist in Julia? \r\n* Which packages do/do not allow composable computation? \r\n* Could the `MatrixSpace` type from AbstractAlgebra.jl be replaced with `AbstractArray`?   Why or why not?\r\n* Is there any interest in participating in wrapping the C++ libraries [NTL](https://www.shoup.net/ntl/) or [fplll](https://github.com/fplll/fplll)?  Or other libraries?",
+  "description": "To start, Bill Hart, author of Nemo.jl, AbstractAlgebra.jl Hecke.jl and other computer algebra packages will review his packages and discuss what further steps he and his collaborators plan to make.  \r\n\r\nThen we'll discuss topics such as:\r\n\r\n* What's missing? Is there important functionality which just don't exist in Julia? \r\n* Which packages do/do not allow composable computation?\r\n* Could the `MatrixSpace` type from AbstractAlgebra.jl be replaced with `AbstractArray`?  Could we somehow get the `fmpz` integers in Nemo.jl to be subtypes of `Number`?  Why or why not?\r\n* Is there any interest in wrapping the [NTL](https://www.shoup.net/ntl/)(C++) or [PARI](http://pari.math.u-bordeaux.fr/)(C) libraries?\r\n* Would anyone use Julia wrappers around lattice libraries like [fplll](https://github.com/fplll/fplll), [plll](https://felix.fontein.de/plll/) or [LUSA](https://eprint.iacr.org/2020/605.pdf)?",
   "image": null,
   "slot_count": 1,
   "slot": {
@@ -3601,7 +3601,7 @@
   "resources": [],
   "do_not_record": false,
   "title": "Number Theory and Computer Algebra in Julia",
-  "abstract": "We will review existing packages, discuss what new packages could be written, and look at existing C/C++ libraries that we might provide Julia wrappers for."
+  "abstract": "We will review existing computer algebra packages, discuss what new packages could be written, and look at existing C/C++ libraries like NTL that we might provide Julia wrappers for."
  },
  {
   "content_locale": "en",
@@ -4111,7 +4111,7 @@
     "biography": "Full professor in the Faculty of Sciences, Universidad Nacional Autónoma de México (UNAM) and visiting professor at MIT.\r\n\r\nJulia user, tutorial developer and package author since 2014. Co-creator of the JuliaIntervals suite of tools for interval arithmetic in Julia."
    }
   ],
-  "description": "We will give a hands-on tutorial introduction to the powerful numerical methods for calculating with sets that become available by using interval arithmetic and associated methods, including for approximating functions, root finding, global optimization and solving ODEs, all with guaranteed error bounds.\r\n\r\nWe will explore the suite of packages in the JuliaIntervals organization and how they interact with other packages in the Julia ecosystem, in particular LinearAlgebra and ForwardDiff. We will show how they\r\n may be used interactively to  calculate ranges of functions, exclude and prove uniqueness of roots. We will also show how to build branch-and-prune algorithms for global optimization and discuss the use of constraint propagation. We will also discuss how to build rigorous approximations of functions as polynomials with interval remainders, and how these may be used for solving ordinary differential equations with guaranteed error bounds (tubes).",
+  "description": "We will give a hands-on tutorial introduction to the powerful numerical methods for calculating with sets that become available by using interval arithmetic and associated methods, including for approximating functions, root finding, global optimization and solving ODEs, all with guaranteed error bounds.\r\n\r\nWe will explore the suite of packages in the JuliaIntervals organization and how they interact with other packages in the Julia ecosystem, in particular LinearAlgebra and ForwardDiff. We will show how they\r\n may be used interactively to  calculate ranges of functions, exclude and prove uniqueness of roots. We will also show how to build branch-and-prune algorithms for global optimization and discuss the use of constraint propagation. We will also discuss how to build rigorous approximations of functions as polynomials with interval remainders, and how these may be used for solving ordinary differential equations with guaranteed error bounds (tubes).\r\n\r\nMaterials are available at https://github.com/dpsanders/IntervalsJuliaCon2020",
   "image": null,
   "slot_count": 1,
   "slot": {

@@ -509,7 +509,7 @@
  },
  {
   "text": "package",
-  "count": 255,
+  "count": 254,
   "talks": [
    1,
    3,
@@ -3840,10 +3840,11 @@
  },
  {
   "text": "lattice",
-  "count": 11,
+  "count": 12,
   "talks": [
    14,
-   25
+   25,
+   100
   ]
  },
  {
@@ -4276,7 +4277,7 @@
  },
  {
   "text": "package discuss",
-  "count": 20,
+  "count": 16,
   "talks": [
    7,
    34,
@@ -5121,7 +5122,7 @@
  },
  {
   "text": "discuss",
-  "count": 46,
+  "count": 45,
   "talks": [
    2,
    4,
@@ -9863,12 +9864,11 @@
  },
  {
   "text": "existing package",
-  "count": 20,
+  "count": 16,
   "talks": [
    4,
    82,
    97,
-   100,
    109
   ]
  },
@@ -10565,10 +10565,11 @@
  },
  {
   "text": "integer",
-  "count": 4,
+  "count": 5,
   "talks": [
    85,
    96,
+   100,
    116,
    138
   ]
@@ -17820,7 +17821,7 @@
  },
  {
   "text": "theory",
-  "count": 21,
+  "count": 20,
   "talks": [
    19,
    24,
@@ -19557,7 +19558,7 @@
  },
  {
   "text": "wrapper",
-  "count": 7,
+  "count": 8,
   "talks": [
    26,
    28,
