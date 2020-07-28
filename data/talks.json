@@ -1853,7 +1853,7 @@
     "biography": "Genomics Data Scientist at Brown University, Providence, RI."
    }
   ],
-  "description": "",
+  "description": "This BoF (and all others) will be on Discord. Please join Discord by clicking on the following link: https://live.juliacon.org/discord/join . To join Discord, you will need the registration ID that you recieved when you signed up for the conference. You will find it in the confirmation email you get from Eventbrite. If you haven't yet registered, please do so immediately at https://juliacon.org/2020/tickets/",
   "image": null,
   "slot_count": 1,
   "slot": {
@@ -4357,6 +4357,39 @@
   "do_not_record": false,
   "title": "Migrating to JuMP: Leaving Behind Domain Specific Languages",
   "abstract": "To increase transparency and partnership opportunities, the Department of Energy funded an [open source release](https://github.com/NREL/reopt_api) of NREL developed [REopt](https://reopt.nrel.gov/). The optimization model that powers REopt was originally written in a domain specific, proprietary modeling language called Mosel. This transition required some python-familiar engineers to learn Julia and the JuMP package. This talk will detail our experience and what we learned along the way."
+ },
+ {
+  "content_locale": "en",
+  "is_featured": false,
+  "code": "SA8M93",
+  "track": null,
+  "state": "confirmed",
+  "duration": 45,
+  "speakers": [
+   {
+    "avatar": null,
+    "name": "JuliaCon Committee",
+    "code": "M9YRTS",
+    "biography": null
+   }
+  ],
+  "description": "",
+  "image": null,
+  "slot_count": 1,
+  "slot": {
+   "start": "2020-07-28T17:30:00Z",
+   "room": {
+    "en": "BoF"
+   },
+   "end": "2020-07-28T18:15:00Z"
+  },
+  "submission_type": {
+   "en": "Birds of Feather"
+  },
+  "resources": [],
+  "do_not_record": false,
+  "title": "Gather Towns Social",
+  "abstract": "After the success of the Monday session, a further scheduled social on Gather Town will happen again on Tuesday after the workshops, at 17:30 UTC. \r\n\r\nPlease join then (or indeed at any time) using https://gather.town/rBrwIUqeDkb5JTxu/juliacon2020\r\n\r\nFor today's event, there will be a dedicated space for MLJ, the Julia Machine Learning toolkit, where the the development team will be around to chat and answer questions."
  },
  {
   "content_locale": "en",

@@ -1331,6 +1331,17 @@
   "speaker": "Josiah Pohl"
  },
  {
+  "start_datetime": "2020-07-28T17:30:00Z",
+  "end_datetime": "2020-07-28T18:15:00Z",
+  "duration": 45,
+  "location": "BoF",
+  "id": "SA8M93",
+  "title": "Gather Towns Social",
+  "url": "/talk/SA8M93",
+  "index": 122,
+  "speaker": "JuliaCon Committee"
+ },
+ {
   "start_datetime": "2020-07-29T17:30:00Z",
   "end_datetime": "2020-07-29T17:40:00Z",
   "duration": 10,
@@ -1338,7 +1349,7 @@
   "id": "SD8PSC",
   "title": "Terminal User Interfaces in Julia",
   "url": "/talk/SD8PSC",
-  "index": 122,
+  "index": 123,
   "speaker": "Dheepak Krishnamurthy"
  },
  {
@@ -1349,7 +1360,7 @@
   "id": "TKAXGF",
   "title": "Bringing Julia to the Realm of Electronic Structure Theory",
   "url": "/talk/TKAXGF",
-  "index": 123,
+  "index": 124,
   "speaker": "David Poole"
  },
  {
@@ -1360,7 +1371,7 @@
   "id": "UCQCSN",
   "title": "Keynote: Karen Willcox",
   "url": "/talk/UCQCSN",
-  "index": 124,
+  "index": 125,
   "speaker": "Karen Willcox"
  },
  {
@@ -1371,7 +1382,7 @@
   "id": "UD7AGC",
   "title": "Fancy Array Indexing",
   "url": "/talk/UD7AGC",
-  "index": 125,
+  "index": 126,
   "speaker": "Lyndon White (@oxinabox)"
  },
  {
@@ -1382,7 +1393,7 @@
   "id": "UPHPAT",
   "title": "GigaSOM.jl: 1 billion cytometry events and beyond with Julia",
   "url": "/talk/UPHPAT",
-  "index": 126,
+  "index": 127,
   "speaker": "Miroslav Kratochvíl, Oliver Hunewald"
  },
  {
@@ -1393,7 +1404,7 @@
   "id": "UTGXSH",
   "title": "Diversity and Inclusion Efforts in the Julia Community",
   "url": "/talk/UTGXSH",
-  "index": 127,
+  "index": 128,
   "speaker": "Logan Kilpatrick"
  },
  {
@@ -1404,7 +1415,7 @@
   "id": "UUECGJ",
   "title": "Intertwined Economic and Energy Analysis using Julia",
   "url": "/talk/UUECGJ",
-  "index": 128,
+  "index": 129,
   "speaker": "Caroline Hughes"
  },
  {
@@ -1415,7 +1426,7 @@
   "id": "V3QDAM",
   "title": "Crash Course in Energy Systems Modeling and Analysis with Julia",
   "url": "/talk/V3QDAM",
-  "index": 129,
+  "index": 130,
   "speaker": "Dheepak Krishnamurthy, Clayton Barrows"
  },
  {
@@ -1426,7 +1437,7 @@
   "id": "V9NX3C",
   "title": "Creating an XML parser from scratch",
   "url": "/talk/V9NX3C",
-  "index": 130,
+  "index": 131,
   "speaker": "Erik Engheim"
  },
  {
@@ -1437,7 +1448,7 @@
   "id": "VP3W33",
   "title": "Rocket.jl: A Julia package for reactive programming",
   "url": "/talk/VP3W33",
-  "index": 131,
+  "index": 132,
   "speaker": "Dmitry Bagaev"
  },
  {
@@ -1448,7 +1459,7 @@
   "id": "VPUS7J",
   "title": "Introducing the Hispanic community to Julia",
   "url": "/talk/VPUS7J",
-  "index": 132,
+  "index": 133,
   "speaker": "Pamela Alejandra Bustamante Faúndez"
  },
  {
@@ -1459,7 +1470,7 @@
   "id": "WGAHCK",
   "title": "When compiler technology meets Market Risk Management",
   "url": "/talk/WGAHCK",
-  "index": 133,
+  "index": 134,
   "speaker": "Felipe Noronha Tavares, Lucas Processi"
  },
  {
@@ -1470,7 +1481,7 @@
   "id": "WNBYW8",
   "title": "Interactive notebooks ~ Pluto.jl",
   "url": "/talk/WNBYW8",
-  "index": 134,
+  "index": 135,
   "speaker": "Fons van der Plas"
  },
  {
@@ -1481,7 +1492,7 @@
   "id": "X8LY73",
   "title": "DFTK: A Julian approach for simulating electrons in solids",
   "url": "/talk/X8LY73",
-  "index": 135,
+  "index": 136,
   "speaker": "Michael Herbst"
  },
  {
@@ -1492,7 +1503,7 @@
   "id": "XBLMPG",
   "title": "The Julia Vega and Vega-Lite ecosystem",
   "url": "/talk/XBLMPG",
-  "index": 136,
+  "index": 137,
   "speaker": "David Anthoff"
  },
  {
@@ -1503,7 +1514,7 @@
   "id": "XEELRW",
   "title": "Solving Neuroinformatics' Three Language Problem With Julia",
   "url": "/talk/XEELRW",
-  "index": 137,
+  "index": 138,
   "speaker": "Zachary P Christensen"
  },
  {
@@ -1514,7 +1525,7 @@
   "id": "XGHSWW",
   "title": "Julia and C++: a technical overview of CxxWrap.jl",
   "url": "/talk/XGHSWW",
-  "index": 138,
+  "index": 139,
   "speaker": "Bart Janssens"
  },
  {
@@ -1525,7 +1536,7 @@
   "id": "XKG7TT",
   "title": "SymbolicTensors.jl -- high-level tensor manipulation in Julia",
   "url": "/talk/XKG7TT",
-  "index": 139,
+  "index": 140,
   "speaker": "Robert Rosati"
  },
  {
@@ -1536,7 +1547,7 @@
   "id": "XQ9YQK",
   "title": "Efficient RANSAC in efficient Julia",
   "url": "/talk/XQ9YQK",
-  "index": 140,
+  "index": 141,
   "speaker": "Tamás Cserteg"
  },
  {
@@ -1547,7 +1558,7 @@
   "id": "XW9PNR",
   "title": "Using Julia and group theory  to describe Molecular Vibrations",
   "url": "/talk/XW9PNR",
-  "index": 141,
+  "index": 142,
   "speaker": "León Alday, Roberto Bernal-Jaquez"
  },
  {
@@ -1558,7 +1569,7 @@
   "id": "Y7ERM9",
   "title": "Introducing the @ccall macro",
   "url": "/talk/Y7ERM9",
-  "index": 142,
+  "index": 143,
   "speaker": "Aaron Christianson"
  },
  {
@@ -1569,7 +1580,7 @@
   "id": "YCGSVY",
   "title": "How not to write CPU code -- KernelAbstractions.jl",
   "url": "/talk/YCGSVY",
-  "index": 143,
+  "index": 144,
   "speaker": "Valentin Churavy"
  },
  {
@@ -1580,7 +1591,7 @@
   "id": "YDSABY",
   "title": "Multi-Physics 3-D Inversion on GPU Supercomputers with Julia",
   "url": "/talk/YDSABY",
-  "index": 144,
+  "index": 145,
   "speaker": "Ludovic Räss, Georg, Samuel Omlin"
  },
  {
@@ -1591,7 +1602,7 @@
   "id": "YPT9CQ",
   "title": "NumFOCUS and Julia project finances",
   "url": "/talk/YPT9CQ",
-  "index": 145,
+  "index": 146,
   "speaker": "Avik Sengupta"
  },
  {
@@ -1602,7 +1613,7 @@
   "id": "YVRWMA",
   "title": "NetworkDynamics.jl - Modeling dynamical systems on networks",
   "url": "/talk/YVRWMA",
-  "index": 146,
+  "index": 147,
   "speaker": "Michael Lindner, Anton Plietzsch"
  },
  {
@@ -1613,7 +1624,7 @@
   "id": "YY9QEJ",
   "title": "KernelFunctions.jl, machine learning kernels for Julia",
   "url": "/talk/YY9QEJ",
-  "index": 147,
+  "index": 148,
   "speaker": "Théo Galy-Fajou"
  },
  {
@@ -1624,7 +1635,7 @@
   "id": "YYKQCW",
   "title": "What's Next For Dynamical Modeling In Julia?",
   "url": "/talk/YYKQCW",
-  "index": 148,
+  "index": 149,
   "speaker": "Chris Rackauckas"
  },
  {
@@ -1635,7 +1646,7 @@
   "id": "YYWMPR",
   "title": "No-overhead Game Development in Julia",
   "url": "/talk/YYWMPR",
-  "index": 149,
+  "index": 150,
   "speaker": "Ahan Sengupta"
  },
  {
@@ -1646,7 +1657,7 @@
   "id": "Z3RDBQ",
   "title": "Developing an exercise-based Julia curriculum",
   "url": "/talk/Z3RDBQ",
-  "index": 150,
+  "index": 151,
   "speaker": "Sascha Mann"
  },
  {
@@ -1657,7 +1668,7 @@
   "id": "Z8TE39",
   "title": "Shippable apps and custom sysimages with PackageCompiler.jl",
   "url": "/talk/Z8TE39",
-  "index": 151,
+  "index": 152,
   "speaker": "Kristoffer Carlsson"
  },
  {
@@ -1668,7 +1679,7 @@
   "id": "Z8WWNV",
   "title": "Natural Language Processing in Julia",
   "url": "/talk/Z8WWNV",
-  "index": 152,
+  "index": 153,
   "speaker": "Ayush Kaushal"
  },
  {
@@ -1679,7 +1690,7 @@
   "id": "ZMHR9V",
   "title": "A Parallel Time-Domain Power System Simulation Toolbox in Julia",
   "url": "/talk/ZMHR9V",
-  "index": 153,
+  "index": 154,
   "speaker": "Michael Kyesswa"
  },
  {
@@ -1690,7 +1701,7 @@
   "id": "ZRC8HA",
   "title": "SmartHomy: Julia controlling your home and life!",
   "url": "/talk/ZRC8HA",
-  "index": 154,
+  "index": 155,
   "speaker": "Simon Danisch"
  }
 ]
