@@ -129,7 +129,7 @@
    "DWCJUK"
   ],
   "code": "8BZR7G",
-  "biography": "I just graduated from Kyoto University, Spring 2020 and got a liberal arts degree.\r\n\r\nMy current interest is especially in the design and paradigm of programming languages; I love languages that I can write without thinking deeply and just feel good instead.\r\n\r\nI also like cool developer tools, and as such I am a maintainer of Juno, a Julia IDE, and actively developing various packages around its ecosystem.\r\n\r\nGitHub: https://github.com/aviatesk"
+  "biography": "- Bio: graduated from kyoto univ. this spring with a liberal arts degree, and currently working as a ML engineer at a Japanese tech company\r\n- Julia: a maintainer of Juno, a Julia IDE, and actively developing various packages around its ecosystem\r\n- GitHub: https://github.com/aviatesk"
  },
  {
   "avatar": null,
@@ -917,9 +917,7 @@
   "name": "JuliaCon Committee",
   "submissions": [
    "9BNNMD",
-   "LRRAGD",
-   "CRYCPR",
-   "SA8M93"
+   "LRRAGD"
   ],
   "code": "M9YRTS",
   "biography": null
@@ -1097,15 +1095,6 @@
   ],
   "code": "QAS7GV",
   "biography": "Undergraduate student majoring in Computer Science and Engineering at Indian Institute of Technology Kharagpur."
- },
- {
-  "avatar": "https://pretalx.com/media/avatars/nick-grey-2018_hPdYlm0.jpg",
-  "name": "Nick Robinson",
-  "submissions": [
-   "RVZNV3"
-  ],
-  "code": "QBN9K9",
-  "biography": "Research Engineer at Invenia Labs. I have a background in machine learning, and work on a research team using Julia in production."
  },
  {
   "avatar": null,
